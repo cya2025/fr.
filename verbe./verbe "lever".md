@@ -10,4 +10,4 @@ il lève.
 nou levon.
 
 
-vou levez.
+vou levé.
