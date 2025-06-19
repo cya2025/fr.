@@ -46,6 +46,24 @@ son avec voix feminin :
 son avec voix masculin :
 
 
+# é.
+
+
+son avec voix feminin :
+
+
+son avec voix masculin :
+
+
+# è.
+
+
+son avec voix feminin :
+
+
+son avec voix masculin :
+
+
 # f.
 
 
@@ -227,15 +245,6 @@ son avec voix masculin :
 
 
 # z.
-
-
-son avec voix feminin :
-
-
-son avec voix masculin :
-
-
-# ez.
 
 
 son avec voix feminin :
