@@ -12,9 +12,9 @@ vou vou lèveré.
 
 # ordre.
 
-lève toi.
+levé vou.
 
-levez vous.
+lève toi.
 
 # passé.
 
