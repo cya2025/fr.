@@ -102,6 +102,12 @@ son avec voix feminin :
 
 son avec voix masculin :
 
+# oi.
+
+son avec voix feminin :
+
+son avec voix masculin :
+
 # on.
 
 son avec voix feminin :
