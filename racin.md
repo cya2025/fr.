@@ -2,6 +2,6 @@
 
 2. no komèr.
 
-3. zero pokav.
+3. trè pa tro.
 
-5. trè pa tro.
+4. zero pokav.
