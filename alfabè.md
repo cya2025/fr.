@@ -147,3 +147,15 @@ con mackul1 :
 con fémin1 :
 
 con mackul1 :
+
+.
+
+'
+
+:
+
+=
+
+( )
+
+#
