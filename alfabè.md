@@ -4,6 +4,12 @@ co fémin1 :
 
 co mackul1 :
 
+# an.
+
+co fémin1 :
+
+co mackul1 :
+
 # b.
 
 co fémin1 :
@@ -71,6 +77,12 @@ co fémin1 :
 co mackul1 :
 
 # o.
+
+co fémin1 :
+
+co mackul1 :
+
+# on.
 
 co fémin1 :
 
