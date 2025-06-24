@@ -1,5 +1,19 @@
-con fémin1 :
+# apo.
 
-con mackul1 :
+'
 
-- je ve ce pom.
+# depo.
+
+:
+
+# ékal.
+
+=
+
+# para.
+
+( )
+
+# po.
+
+.
