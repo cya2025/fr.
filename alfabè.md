@@ -94,6 +94,12 @@ con fémin1 :
 
 con mackul1 :
 
+# ou.
+
+con fémin1 :
+
+con mackul1 :
+
 # p.
 
 con fémin1 :
@@ -148,18 +154,18 @@ con fémin1 :
 
 con mackul1 :
 
-.
+# .
 
-'
+# '
 
-:
+# :
 
--
+# -
 
-=
+# =
 
-?
+# ?
 
-( )
+# ( )
 
-#
+#piratfinal.
