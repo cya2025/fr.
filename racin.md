@@ -1,9 +1,7 @@
-1. komèr.
+1. kroar pa.
 
-2. kroar.
+2. no komèr.
 
-3. pokav.
+3. zero pokav.
 
-4. t.
-
-5. tro.
+5. trè pa tro.
