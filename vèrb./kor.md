@@ -4,7 +4,7 @@ con mackul1 :
 
 # futur.
 
-il kor
+il kor.
 
 je kor.
 
