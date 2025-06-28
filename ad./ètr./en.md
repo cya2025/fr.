@@ -2,10 +2,10 @@ con fémin1 :
 
 con mackul1 :
 
-- en cupinacio.
+# fraz.
+
+- en cupinacion.
 
 - en marto.
 
-- en pronacio.
-
-- en rapid.
+- en pronacion.
